@@ -1,5 +1,5 @@
 <h1 align="center">✨ Modern Animated Calculator</h1>
-https://github.com/user-attachments/assets/8acce6ae-98ea-4f77-aeae-2b8a03d38878
+
 
 <p align="center">
   <strong>A sleek, highly interactive web-based calculator featuring glassmorphism UI and fluid GSAP animations.</strong>
@@ -9,9 +9,10 @@ https://github.com/user-attachments/assets/8acce6ae-98ea-4f77-aeae-2b8a03d38878
   <a href="https://elyasforghani.github.io/calculator/"><b>Live Demo</b></a> •
   <a href="#features"><b>Features</b></a> •
   <a href="#tech-stack"><b>Tech Stack</b></a> •
-  <a href="#installation"><b>Installation</b></a>
+
 </p>
 
+<video src="https://github.com/user-attachments/assets/8acce6ae-98ea-4f77-aeae-2b8a03d38878" autoplay loop muted playsinline width="100%"></video>
 ---
 
 ## 📖 Overview
